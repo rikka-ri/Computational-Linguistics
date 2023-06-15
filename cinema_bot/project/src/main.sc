@@ -1,4 +1,4 @@
-#в идеале: добавить переход на оператора
+
 
 require: slotfilling/slotFilling.sc
   module = sys.zb-common
